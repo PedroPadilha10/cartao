@@ -1,7 +1,7 @@
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Olá, sou o Pedro Padilha!<br></br>Participei desse ótimo evento da Rocketseat.
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="rocketpay" src="https://user-images.githubusercontent.com/92943192/197579184-72de3ea1-4403-49e9-97a6-b59a0a7e9ccf.PNG" width="50%">
 </p>
 
 ## 🚀 Tecnologias
